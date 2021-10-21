@@ -1,0 +1,2 @@
+add_executable(avl_rmq_test avl_rmq_test.cpp)
+target_link_libraries(avl_rmq_test avl_rmq malloc_count)
